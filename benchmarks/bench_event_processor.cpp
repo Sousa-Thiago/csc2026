@@ -70,5 +70,3 @@ static void BM_TrackReconstruction(benchmark::State& state) {
     }
 }
 BENCHMARK(BM_TrackReconstruction);
-
-BENCHMARK_MAIN();
